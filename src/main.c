@@ -70,3 +70,4 @@ int	main(void)
 	ft_putstr("\nGood bye !\n");
 	return (0);
 }
+// read the README file
