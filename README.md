@@ -1,4 +1,4 @@
-# sysmon
+# sysmo n
 
 A small system monitor I wrote in C, no printf, no external libraries.
 The idea was to do everything by hand: read /proc, parse, print with write.
